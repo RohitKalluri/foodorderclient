@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "297950673007",
+    "firebase_url": "https://foodorder-e30dc.firebaseio.com",
+    "project_id": "foodorder-e30dc",
+    "storage_bucket": "foodorder-e30dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297950673007:android:446aa676d8cc5663ae759a",
+        "android_client_info": {
+          "package_name": "com.example.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297950673007-c23opt4r7ojo6bmo865l3p3fr9nk8r8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodorder",
+            "certificate_hash": "bb1990741f2f6bed4802ad7642f2977d35e26d3c"
+          }
+        },
+        {
+          "client_id": "297950673007-6c1p2vqjp02532so2cir3qbk726bpru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8w2v4bOTBXPcY7uyWTNCvFVXuhM31z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297950673007-6c1p2vqjp02532so2cir3qbk726bpru1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297950673007:android:4005273f7f40772fae759a",
+        "android_client_info": {
+          "package_name": "com.example.foodorderclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297950673007-5mdltqhj7gi547rb0mila5cteqj8lv90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodorderclient",
+            "certificate_hash": "bb1990741f2f6bed4802ad7642f2977d35e26d3c"
+          }
+        },
+        {
+          "client_id": "297950673007-6c1p2vqjp02532so2cir3qbk726bpru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8w2v4bOTBXPcY7uyWTNCvFVXuhM31z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297950673007-6c1p2vqjp02532so2cir3qbk726bpru1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
